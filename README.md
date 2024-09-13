@@ -1,3 +1,2 @@
-test
 
 npm start

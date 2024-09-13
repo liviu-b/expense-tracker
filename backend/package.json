@@ -4,7 +4,8 @@
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js",
-    "test": "jest"
+    "test": "jest",
+    "install": "npm install && npm start"
   },
   "author": "",
   "license": "ISC",
