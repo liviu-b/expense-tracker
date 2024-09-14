@@ -1,2 +1,2 @@
 .env
-__test__
+backend/__tests__/
